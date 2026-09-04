@@ -1,0 +1,19 @@
+# Core numerical / data handling
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+
+# Graph / network analysis
+geopandas
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+jupyterlab
+ipykernel
