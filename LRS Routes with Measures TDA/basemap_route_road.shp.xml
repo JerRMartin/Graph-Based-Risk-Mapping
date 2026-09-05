@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20260831</CreaDate>
+		<CreaTime>17402100</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+	</Esri>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>basemap_route_road</resTitle>
+		</idCitation>
+		<idAbs>The Basemap Routes feature class covers the state of Florida at a scale of 1:24,000 with a projection system of Universal Transverse Mercator (UTM) 17 North zone and a horizontal datum of North American 1983 (NAD 1983). The map units are in meters. The spatial data also contains measure information for event mapping.</idAbs>
+		<idCredit>
+		</idCredit>
+	</dataIdInfo>
+</metadata>
