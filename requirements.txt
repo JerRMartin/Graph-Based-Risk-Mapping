@@ -5,9 +5,11 @@ scipy
 
 # Machine learning
 scikit-learn
+xgboost
 
 # Graph / network analysis
 geopandas
+networkx
 
 # Data visualization
 matplotlib
