@@ -19,3 +19,7 @@ plotly
 # Jupyter
 jupyterlab
 ipykernel
+
+# Graph neural networks (GCN, GAT baselines)
+torch
+torch_geometric
