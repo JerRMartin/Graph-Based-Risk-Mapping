@@ -6,6 +6,7 @@ scipy
 # Machine learning
 scikit-learn
 xgboost
+torch
 
 # Graph / network analysis
 geopandas
