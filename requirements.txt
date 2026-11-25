@@ -1,26 +1,18 @@
-# Core numerical / data handling
-numpy
-pandas
-scipy
+# Environment that produced the paper's results (Python 3.14.5)
+scikit-learn==1.9.0
+xgboost==3.4.1
+geopandas==1.1.4
+shapely==2.1.2
+networkx==3.6.1
 
-# Machine learning
-scikit-learn
-xgboost
-torch
+# Other packages used by the notebook
+numpy==2.5.2
+pandas==2.3.3
+scipy==1.16.3
+torch==2.14.0
+torch-geometric==2.8.1
+matplotlib==3.11.1
 
-# Graph / network analysis
-geopandas
-networkx
-
-# Data visualization
-matplotlib
-seaborn
-plotly
-
-# Jupyter
+# Running the notebook
+ipykernel==7.3.0
 jupyterlab
-ipykernel
-
-# Graph neural networks (GCN, GAT baselines)
-torch
-torch_geometric
